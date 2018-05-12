@@ -1,0 +1,66 @@
+_repo: The-Knights-of-Arthur_32004
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Martin, Don
+    aliases:
+    - Martin, Donald
+    - Martin
+    birthdate: 1931
+    deathdate: 2000
+    gutenberg_agent_id: '36344'
+    url: http://www.gutenberg.org/2009/agents/36344
+    wikipedia: http://en.wikipedia.org/wiki/Don_Martin_%28cartoonist%29
+covers:
+- cover_type: archival
+  image_path: 32004-h/images/cover-sm.jpg
+creator:
+  author:
+    agent_name: Pohl, Frederik
+    aliases:
+    - Pohl, Frederik George, Jr.
+    - Pohl, Frederick
+    birthdate: 1919
+    deathdate: 2013
+    gutenberg_agent_id: '25413'
+    url: http://www.gutenberg.org/2009/agents/25413
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Frederik_Pohl
+    - http://www.gutenberg.org/ebooks/author/46565
+description: Published in the January 1958 issue, THE KNIGHTS OF ARTHUR is one of
+  the earlier computer satires in which the machine (like Arthur C. Clarke's Hal in
+  2001 ten years later) is gifted with a human and very cranky personality. By 1958,
+  the Horace Gold's own personality, under the constant pressure of his agoraphobia,
+  isolation and increasing imperiousness had sharply deteriorated and he had alienated
+  most of his best contributors, some of whom (Isaac Asimov) refused to work with
+  him any more. Gold, the editor of GALAXY magazine, between 1950 and 1959 apparently
+  never left his Stuyvesant Town apartment for any reason. Gold was having ever less
+  to do with the mechanical and repetitive aspects of editing and, probably at the
+  best of his publisher Robert Guinn had turned over those tasks (and some of the
+  task of selection) to Frederik Pohl who was in effect ghost-editing the magazine
+  years before he assumed the position of editor on the masthead in 1960. Perhaps
+  not coincidentally, Pohl became in those years one of the magazine's most prolific
+  contributors, even as the already dominant Robert Sheckley under Pohl's guidance
+  became so prolific that he developed three pseudonyms because so frequently more
+  than one of his stories appeared in the magazine. THE KNIGHTS OF ARTHUR is a characteristic
+  GALAXY satire of a machine pushing the borders of restraint and becoming a bully
+  or at least something of an oppressor. (Robert Silverberg's THE IRON CHANCELLOR,
+  also part of The Galaxy Project is another such example.) Pohl's pleasantly ravaged,
+  post-apocalyptic city is more than background landscape; it is itself a character
+  (just as New York City was essentially the protagonist of Pohl's great novel YEARS
+  OF THE CITY published three decades earlier). Pohl's work was usually more inferno
+  than comic but this novelette is managed with unaccustomed lightness.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2010-04-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32004'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: The Knights of Arthur
+url: http://www.gutenberg.org/ebooks/32004
